@@ -1,0 +1,40 @@
+.fondoNegro{
+    background-color: #0f1319;
+}
+
+.colorW{
+    color: #fff;
+    text-align: center;
+}
+
+section h2{
+    font-weight: bold;
+    font-size: 60px;
+    
+}
+
+.styleList{
+    list-style-type: none;
+}
+
+.footer-copyright{
+    background-color: #0f1319;
+    color: #15E1F0;
+}
+
+.footer-copyright a{
+    color:#fff;
+}
+
+.ipn{
+    width: 10%;
+    max-width: 400px;
+    height: auto;
+}
+
+.personal{
+    width: 30%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 50%;
+}
